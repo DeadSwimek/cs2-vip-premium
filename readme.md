@@ -4,6 +4,7 @@
 - 5 VIPs group
 - Colored models
 - Instant reloading when have 1 ammo
+- Trials for players [ShowCase](https://ctrlv.tv/video/2023/12/03/23/0d9z.webm)
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
