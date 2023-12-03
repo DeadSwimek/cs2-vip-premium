@@ -45,6 +45,10 @@
 
 `Usage: /respawn` Give a VIP to player on steamid.
 
+**css_vips**
+
+`Usage: /vips` Give you a VIP player list.
+
 **css_weapon**
 
 `Usage: /weapon <Number of weapon>` List of packages:
@@ -169,7 +173,8 @@
     "BombInfo": true,
     "ReservedSlots": true,
     "FastReload": true,
-    "Color": true
+    "Color": true,
+    "Trials": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -181,7 +186,8 @@
     "BombInfo": true,
     "ReservedSlots": true,
     "FastReload": true,
-    "Color": true
+    "Color": true,
+    "Trials": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -193,7 +199,8 @@
     "BombInfo": true,
     "ReservedSlots": true,
     "FastReload": true,
-    "Color": true
+    "Color": true,
+    "Trials": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -205,7 +212,8 @@
     "BombInfo": true,
     "ReservedSlots": true,
     "FastReload": true,
-    "Color": true
+    "Color": true,
+    "Trials": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -217,7 +225,8 @@
     "BombInfo": true,
     "ReservedSlots": true,
     "FastReload": true,
-    "Color": true
+    "Color": true,
+    "Trials": true
   },
   "Messages": {
     "AllowCenterMessages": true
