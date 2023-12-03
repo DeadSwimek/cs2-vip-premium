@@ -194,6 +194,30 @@
     "FastReload": true,
     "Color": true
   },
+  "GroupsSettings_G4": {
+    "Respawn": true,
+    "Pack": true,
+    "Weapons": true,
+    "Acceries": true,
+    "Smoke": true,
+    "DoubbleJump": true,
+    "BombInfo": true,
+    "ReservedSlots": true,
+    "FastReload": true,
+    "Color": true
+  },
+  "GroupsSettings_G5": {
+    "Respawn": true,
+    "Pack": true,
+    "Weapons": true,
+    "Acceries": true,
+    "Smoke": true,
+    "DoubbleJump": true,
+    "BombInfo": true,
+    "ReservedSlots": true,
+    "FastReload": true,
+    "Color": true
+  },
   "Messages": {
     "AllowCenterMessages": true
   },
