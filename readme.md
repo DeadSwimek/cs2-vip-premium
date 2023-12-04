@@ -1,4 +1,4 @@
-# IF YOU WANNA THIS PLUGIN CONTACT ME ON DISCORD : deadswim [](https://discord.gg/WNK777rhwg)
+# IF YOU WANNA THIS PLUGIN CONTACT ME ON DISCORD : deadswim [MY DISCORD SERVER](https://discord.gg/WNK777rhwg)
 
 
 ##### Lists of my plugins
