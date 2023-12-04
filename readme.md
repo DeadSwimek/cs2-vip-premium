@@ -15,6 +15,7 @@
 - Trials for players [ShowCase](https://ctrlv.tv/video/2023/12/03/23/0d9z.webm)
 - Shoot laser for VIPS [ShowCase](https://ctrlv.tv/video/2023/12/04/00/lkMz.webm)
 - Can set to pistols one ammo after player spawn. [ShowCase](https://ctrlv.tv/video/2023/12/04/14/WJOp.webm)
+- Can remove NONVIP all pistols when player spawn after first round.
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
