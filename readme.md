@@ -113,6 +113,7 @@
   "ReservedSlotsForVIP": 1,
   "ReservedMethod": 1,
   "Bombinfo": true,
+  "DeletePistolsForNonVIP": false,
   "DisablePackWeaponAfter20Sec": false,
   "MinimumRoundToUseCommands": 3,
   "WelcomeMessage": "Welcom on server you are BEST VIP!",
