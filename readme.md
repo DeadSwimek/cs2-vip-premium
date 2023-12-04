@@ -1,4 +1,12 @@
 # IF YOU WANNA THIS PLUGIN CONTACT ME ON DISCORD : deadswim
+
+
+##### Lists of my plugins
+> [VIP](https://github.com/DeadSwimek/cs2-vip), [VIP Premium](https://github.com/DeadSwimek/cs2-vip-premium), [SpecialRounds](https://github.com/DeadSwimek/cs2-specialrounds), [Countdown](https://github.com/DeadSwimek/cs2-countdown)
+
+
+                
+
 ![](https://camo.githubusercontent.com/6f4dcc3ce2ec908ab308be1f42581be46c9bb46cc9958637cc6044f640ed835f/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313137363533373237323732343735383634382f313137363533373237323938303630373133382f7669702e706e67)
 ### Features PREMIUM
 - 5 VIPs group
