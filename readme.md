@@ -5,6 +5,7 @@
 - Colored models
 - Instant reloading when have 1 ammo
 - Trials for players [ShowCase](https://ctrlv.tv/video/2023/12/03/23/0d9z.webm)
+- Shoot laser for VIPS [ShowCase](https://ctrlv.tv/video/2023/12/04/00/lkMz.webm)
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
