@@ -14,6 +14,7 @@
 - Instant reloading when have 1 ammo
 - Trials for players [ShowCase](https://ctrlv.tv/video/2023/12/03/23/0d9z.webm)
 - Shoot laser for VIPS [ShowCase](https://ctrlv.tv/video/2023/12/04/00/lkMz.webm)
+- Can set to pistols one ammo after player spawn.
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
@@ -186,7 +187,8 @@
     "FastReload": true,
     "Color": true,
     "Trials": true,
-    "ShootLaser": true
+    "ShootLaser": true,
+    "OneBulletDeagle": false
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -200,7 +202,8 @@
     "FastReload": true,
     "Color": true,
     "Trials": true,
-    "ShootLaser": true
+    "ShootLaser": true,
+    "OneBulletDeagle": false
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -214,7 +217,8 @@
     "FastReload": true,
     "Color": true,
     "Trials": true,
-    "ShootLaser": true
+    "ShootLaser": true,
+    "OneBulletDeagle": false
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -228,7 +232,8 @@
     "FastReload": true,
     "Color": true,
     "Trials": true,
-    "ShootLaser": true
+    "ShootLaser": true,
+    "OneBulletDeagle": false
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -242,7 +247,8 @@
     "FastReload": true,
     "Color": true,
     "Trials": true,
-    "ShootLaser": true
+    "ShootLaser": true,
+    "OneBulletDeagle": false
   },
   "Messages": {
     "AllowCenterMessages": true
