@@ -161,7 +161,9 @@
   "GroupsNames": {
     "Group1": "VIP",
     "Group2": "VIP II",
-    "Group3": "VIP III"
+    "Group3": "VIP III",
+    "Group4": "VIP IV",
+    "Group5": "VIP V"
   },
   "GroupsSettings_G1": {
     "Respawn": true,
@@ -174,7 +176,8 @@
     "ReservedSlots": true,
     "FastReload": true,
     "Color": true,
-    "Trials": true
+    "Trials": true,
+    "ShootLaser": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -187,7 +190,8 @@
     "ReservedSlots": true,
     "FastReload": true,
     "Color": true,
-    "Trials": true
+    "Trials": true,
+    "ShootLaser": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -200,7 +204,8 @@
     "ReservedSlots": true,
     "FastReload": true,
     "Color": true,
-    "Trials": true
+    "Trials": true,
+    "ShootLaser": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -213,7 +218,8 @@
     "ReservedSlots": true,
     "FastReload": true,
     "Color": true,
-    "Trials": true
+    "Trials": true,
+    "ShootLaser": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -226,7 +232,8 @@
     "ReservedSlots": true,
     "FastReload": true,
     "Color": true,
-    "Trials": true
+    "Trials": true,
+    "ShootLaser": true
   },
   "Messages": {
     "AllowCenterMessages": true
