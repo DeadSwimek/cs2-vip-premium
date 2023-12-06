@@ -116,6 +116,7 @@
   "DeletePistolsForNonVIP": false,
   "DisablePackWeaponAfter20Sec": false,
   "MinimumRoundToUseCommands": 3,
+  "AutogivingDeagle": false,
   "WelcomeMessage": "Welcom on server you are BEST VIP!",
   "DBDatabase": "database",
   "DBUser": "user",
