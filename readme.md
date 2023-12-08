@@ -17,6 +17,7 @@
 - Can set to pistols one ammo after player spawn. [ShowCase](https://ctrlv.tv/video/2023/12/04/14/WJOp.webm)
 - Can remove NONVIP all pistols when player spawn after first round.
 - Can setup every hit with knife giving -40hp.
+- Can setup automaticall free vip at time.
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
