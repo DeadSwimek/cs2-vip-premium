@@ -16,6 +16,7 @@
 - Shoot laser for VIPS [ShowCase](https://ctrlv.tv/video/2023/12/04/00/lkMz.webm)
 - Can set to pistols one ammo after player spawn. [ShowCase](https://ctrlv.tv/video/2023/12/04/14/WJOp.webm)
 - Can remove NONVIP all pistols when player spawn after first round.
+- Can setup every hit with knife giving -40hp.
 ### Features
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
@@ -191,7 +192,8 @@
     "Color": true,
     "Trials": true,
     "ShootLaser": true,
-    "OneBulletDeagle": false
+    "OneBulletDeagle": false,
+    "BiggestKnifeDMG": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -206,7 +208,8 @@
     "Color": true,
     "Trials": true,
     "ShootLaser": true,
-    "OneBulletDeagle": false
+    "OneBulletDeagle": false,
+    "BiggestKnifeDMG": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -221,7 +224,8 @@
     "Color": true,
     "Trials": true,
     "ShootLaser": true,
-    "OneBulletDeagle": false
+    "OneBulletDeagle": false,
+    "BiggestKnifeDMG": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -236,7 +240,8 @@
     "Color": true,
     "Trials": true,
     "ShootLaser": true,
-    "OneBulletDeagle": false
+    "OneBulletDeagle": false,
+    "BiggestKnifeDMG": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -251,7 +256,8 @@
     "Color": true,
     "Trials": true,
     "ShootLaser": true,
-    "OneBulletDeagle": false
+    "OneBulletDeagle": false,
+    "BiggestKnifeDMG": true
   },
   "Messages": {
     "AllowCenterMessages": true
