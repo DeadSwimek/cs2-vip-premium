@@ -266,7 +266,7 @@
     "EnableTestVIP": true, // If is true, player can take testvip
     "TimeOfVIP": 3600, // Time of Test VIP (Seconds)
     "AutoTurnVIP": true, // IF is true, NONVIPs player get VIP at time from STartAt
-    "StartAt": 22, // Time is in horus (Giving 1 hours of VIP)
+    "StartAt": 21, // Time is in horus (Giving 1 hours of VIP)
     "EndAt": 23 // Time is in hours, must be in same day with start AT
   },
   "ConfigVersion": 1
