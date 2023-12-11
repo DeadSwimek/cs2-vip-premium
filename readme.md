@@ -119,27 +119,11 @@
   "DisablePackWeaponAfter20Sec": false,
   "MinimumRoundToUseCommands": 3,
   "AutogivingDeagle": false,
-  "WelcomeMessage": "Welcom on server you are BEST VIP!",
   "DBDatabase": "database",
   "DBUser": "user",
   "DBPassword": "password",
   "DBHost": "localhost",
   "DBPort": 3306,
-  "translation": {
-    "OnceUse": " This command you can use \u0007only once\u0001 on round!",
-    "MustBeVIP": " This command are allowed only for \u0006VIP\u0001!",
-    "MustBeThird": " Must be a \u0007Third\u0001 round, to use this command!",
-    "Pack1": " You got a Packages \u0006number one\u0001.",
-    "Pack2": " You got a Packages \u0006number two\u0001.",
-    "Pack3": " You got a Packages \u0006number three\u0001.",
-    "WeaponAK": " You got a weapon \u0006AK-47\u0001.",
-    "WeaponM4A1": " You got a weapon \u0006M4A1\u0001.",
-    "WeaponM4A1S": " You got a weapon \u0006M4A1-S\u0001.",
-    "WeaponAWP": " You got a weapon \u0006AWP\u0001.",
-    "Autoguns": " \u003Cfont color:\u0027green\u0027\u003EIf you wanna turn off automaticall weapon type\u003C/font\u003E\u003Cfont color:\u0027red\u0027\u003E /guns_off\u003C/font\u003E",
-    "MustFirst20Sec": " You can use this command only in \u0007first 20 Seconds\u0001.",
-    "MustBeAlive": " You can use this command only when \u0007you are alive\u0001!"
-  },
   "money": {
     "FirstSpawnMoney": 1200,
     "SpawnArmor": 100,
@@ -194,7 +178,8 @@
     "Trials": true,
     "ShootLaser": true,
     "OneBulletDeagle": false,
-    "BiggestKnifeDMG": true
+    "BiggestKnifeDMG": true,
+    "DMGInfo": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -210,7 +195,8 @@
     "Trials": true,
     "ShootLaser": true,
     "OneBulletDeagle": false,
-    "BiggestKnifeDMG": true
+    "BiggestKnifeDMG": true,
+    "DMGInfo": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -226,7 +212,8 @@
     "Trials": true,
     "ShootLaser": true,
     "OneBulletDeagle": false,
-    "BiggestKnifeDMG": true
+    "BiggestKnifeDMG": true,
+    "DMGInfo": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -242,7 +229,8 @@
     "Trials": true,
     "ShootLaser": true,
     "OneBulletDeagle": false,
-    "BiggestKnifeDMG": true
+    "BiggestKnifeDMG": true,
+    "DMGInfo": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -258,7 +246,8 @@
     "Trials": true,
     "ShootLaser": true,
     "OneBulletDeagle": false,
-    "BiggestKnifeDMG": true
+    "BiggestKnifeDMG": true,
+    "DMGInfo": true
   },
   "Messages": {
     "AllowCenterMessages": true
