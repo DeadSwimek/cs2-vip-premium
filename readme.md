@@ -179,7 +179,8 @@
     "ShootLaser": true,
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
-    "DMGInfo": true
+    "DMGInfo": true,
+    "AntiFlash": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -196,7 +197,8 @@
     "ShootLaser": true,
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
-    "DMGInfo": true
+    "DMGInfo": true,
+    "AntiFlash": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -213,7 +215,8 @@
     "ShootLaser": true,
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
-    "DMGInfo": true
+    "DMGInfo": true,
+    "AntiFlash": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -230,7 +233,8 @@
     "ShootLaser": true,
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
-    "DMGInfo": true
+    "DMGInfo": true,
+    "AntiFlash": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -247,7 +251,8 @@
     "ShootLaser": true,
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
-    "DMGInfo": true
+    "DMGInfo": true,
+    "AntiFlash": true
   },
   "Messages": {
     "AllowCenterMessages": true
