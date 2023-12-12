@@ -36,6 +36,7 @@
 - Rewards after bomb detonate.
 - Configurated packages.
 - 5 VIPs groups.
+- AntiTeam flash
 
 # Commands
 **css_testvip**
