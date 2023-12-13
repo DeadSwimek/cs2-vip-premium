@@ -19,6 +19,7 @@
 - Can setup every hit with knife giving -40hp.
 - Can setup automaticall free vip at time.
 ### Features
+- AutoBHOP
 - Can enable noknifedamage.
 - Special VIP tag in chat. 
 - Pack of guns for free.
@@ -181,7 +182,8 @@
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
-    "AntiFlash": true
+    "AntiFlash": true,
+    "BHop": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -199,7 +201,8 @@
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
-    "AntiFlash": true
+    "AntiFlash": true,
+    "BHop": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -217,7 +220,8 @@
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
-    "AntiFlash": true
+    "AntiFlash": true,
+    "BHop": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -235,7 +239,8 @@
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
-    "AntiFlash": true
+    "AntiFlash": true,
+    "BHop": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -253,7 +258,8 @@
     "OneBulletDeagle": false,
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
-    "AntiFlash": true
+    "AntiFlash": true,
+    "BHop": true
   },
   "Messages": {
     "AllowCenterMessages": true
