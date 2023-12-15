@@ -60,6 +60,10 @@
 
 `Usage: /respawn` Give a VIP to player on steamid.
 
+**css_settings**
+
+`Usage: /settings` Open menu with settings
+
 **css_vips**
 
 `Usage: /vips` Give you a VIP player list.
