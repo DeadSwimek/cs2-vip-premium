@@ -130,6 +130,7 @@
   "DBPassword": "password",
   "DBHost": "localhost",
   "DBPort": 3306,
+  "DBPrefix": "deadswim",
   "money": {
     "FirstSpawnMoney": 1200,
     "SpawnArmor": 100,
@@ -187,7 +188,9 @@
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
     "AntiFlash": true,
-    "BHop": true
+    "BHop": true,
+    "Kevlar": true,
+    "Healthshot": true
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -206,7 +209,9 @@
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
     "AntiFlash": true,
-    "BHop": true
+    "BHop": true,
+    "Kevlar": true,
+    "Healthshot": true
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -225,7 +230,9 @@
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
     "AntiFlash": true,
-    "BHop": true
+    "BHop": true,
+    "Kevlar": true,
+    "Healthshot": true
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -244,7 +251,9 @@
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
     "AntiFlash": true,
-    "BHop": true
+    "BHop": true,
+    "Kevlar": true,
+    "Healthshot": true
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -263,7 +272,9 @@
     "BiggestKnifeDMG": true,
     "DMGInfo": true,
     "AntiFlash": true,
-    "BHop": true
+    "BHop": true,
+    "Kevlar": true,
+    "Healthshot": true
   },
   "Messages": {
     "AllowCenterMessages": true
