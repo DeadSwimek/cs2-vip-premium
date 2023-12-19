@@ -190,7 +190,8 @@
     "AntiFlash": true,
     "BHop": true,
     "Kevlar": true,
-    "Healthshot": true
+    "Healthshot": true,
+    "CSSGroup": "#css/vip"
   },
   "GroupsSettings_G2": {
     "Respawn": true,
@@ -211,7 +212,8 @@
     "AntiFlash": true,
     "BHop": true,
     "Kevlar": true,
-    "Healthshot": true
+    "Healthshot": true,
+    "CSSGroup": "#css/vip"
   },
   "GroupsSettings_G3": {
     "Respawn": true,
@@ -232,7 +234,8 @@
     "AntiFlash": true,
     "BHop": true,
     "Kevlar": true,
-    "Healthshot": true
+    "Healthshot": true,
+    "CSSGroup": "#css/vip"
   },
   "GroupsSettings_G4": {
     "Respawn": true,
@@ -253,7 +256,8 @@
     "AntiFlash": true,
     "BHop": true,
     "Kevlar": true,
-    "Healthshot": true
+    "Healthshot": true,
+    "CSSGroup": "#css/vip"
   },
   "GroupsSettings_G5": {
     "Respawn": true,
@@ -274,7 +278,8 @@
     "AntiFlash": true,
     "BHop": true,
     "Kevlar": true,
-    "Healthshot": true
+    "Healthshot": true,
+    "CSSGroup": "#css/vip"
   },
   "Messages": {
     "AllowCenterMessages": true
