@@ -131,6 +131,9 @@
   "DBHost": "localhost",
   "DBPort": 3306,
   "DBPrefix": "deadswim",
+  "SpawnItems": [
+      "weapon_hegrenade"
+  ],
   "money": {
     "FirstSpawnMoney": 1200,
     "SpawnArmor": 100,
@@ -140,29 +143,35 @@
     "DetonateMoney": 300
   },
   "pack1": {
-    "Gun": "ak47",
-    "Pistol": "deagle",
-    "Acceroies": "healthshot",
-    "Acceroies_2": "molotov",
-    "Acceroies_3": "smokegrenade",
-    "Acceroies_4": "hegrenade"
+    "Weapons": [
+      "ak47",
+      "deagle",
+      "healthshot",
+      "molotov",
+      "smokegrenade",
+      "hegrenade"
+    ]
   },
   "pack2": {
-    "Gun": "m4a1",
-    "Pistol": "deagle",
-    "Acceroies": "healthshot",
-    "Acceroies_2": "molotov",
-    "Acceroies_3": "smokegrenade",
-    "Acceroies_4": "hegrenade"
+    "Weapons": [
+      "m4a1",
+      "deagle",
+      "healthshot",
+      "molotov",
+      "smokegrenade",
+      "hegrenade"
+    ]
   },
   "pack3": {
     "Allowed": false,
-    "Gun": "m4a1",
-    "Pistol": "deagle",
-    "Acceroies": "healthshot",
-    "Acceroies_2": "molotov",
-    "Acceroies_3": "smokegrenade",
-    "Acceroies_4": "hegrenade"
+    "Weapons": [
+      "m4a1",
+      "deagle",
+      "healthshot",
+      "molotov",
+      "smokegrenade",
+      "hegrenade"
+    ]
   },
   "GroupsNames": {
     "Group1": "VIP",
