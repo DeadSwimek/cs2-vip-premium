@@ -64,6 +64,14 @@
 
 `Usage: /settings` Open menu with settings
 
+**css_colors**
+
+`Usage: /colors` Open menu with Colors of player
+
+**css_trials**
+
+`Usage: /trials` Open menu with settings of trials color
+
 **css_vips**
 
 `Usage: /vips` Give you a VIP player list.
@@ -95,6 +103,8 @@
 | `css_respawn`    | Database add     |
 | `css_pack`  | Database add   |
 | `css_color`  | Database add   |
+| `css_settings`  | Database add   |
+| `css_trials`  | Database add   |
 | `css_guns_off`  | NONE   |
 | `css_activator`  | NONE   |
 | `css_testvip`  | NONE   |
